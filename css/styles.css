@@ -55,95 +55,95 @@ h1 {
 }
 
 ul {
-    font-size:75%;
-    list-style:none;
-    padding-left:20px;
-    padding-right:5px;
+  font-size:75%;
+  list-style:none;
+  padding-left:20px;
+  padding-right:5px;
 }
 
 .event {
-    border-radius:5px;
-    color:#10171c;  /* very dark (mostly black) blue */
-    padding:5px;
-    margin:5px 0;
+  border-radius:5px;
+  color:#10171c;  /* very dark (mostly black) blue */
+  padding:5px;
+  margin:5px 0;
 }
 
 .canada {
-    background-color:#e8e193;  /* very soft yellow */
+  background-color:#e8e193;  /* very soft yellow */
 }
 .ufo {
-    background-color:#c2e7e7;  /* light grayish cyan */
+  background-color:#c2e7e7;  /* light grayish cyan */
 }
 .independence {
-    background-color:#ff3333;  /* vivid red */
+  background-color:#ff8080;  /* very light red */
 }
 .bikini {
-    background-color:#ff9933;  /* vivid orange */
+  background-color:#ffbf80;  /* very light orange */
 }
 .intl-kissing {
-    background-color:#ff3399;  /* vivid pink */
+  background-color:#ff80bf;  /* very light pink */
 }
 .fried-chicken {
-    background-color:#3399ff;  /* vivid blue */
+  background-color:#80bfff;  /* very light blue */
 }
 .chocolate {
-    background-color:#9aff9a;  /* pale lime green */
+  background-color:#9aff9a;  /* pale lime green */
 }
 .cow-appreciation {
-    background-color:#9933ff;  /* vivid violet */
+  background-color:#e6cdff;  /* very pale violet */
 }
 .french-fry {
-    background-color:#ff8c1a;  /* vivid orange */
+  background-color:#ffb267;  /* very light orange */
 }
 .population {
-    background-color:#ffb21a;  /* vivid orange */
+  background-color:#ffcc67;  /* very light orange */
 }
 .bastille {
-    background-color:#ff0000;  /* bright red */
+  background-color:#ff9a9a;  /* pale red [pink tone] */
 }
 .natl-mandc {
-    background-color:#9ab3ff;  /* pale blue */
+  background-color:#9ab3ff;  /* pale blue */
 }
 .youth-skills {
-    background-color:#98fb98;  /* very soft lime green */
+  background-color:#98fb98;  /* very soft lime green */
 }
 .natl-hotdog {
-    background-color:#a6f4ff;  /* pale cyan */
+  background-color:#a6f4ff;  /* pale cyan */
 }
 .natl-tattoo {
-    background-color:#ffc0cb;  /* very pale red (pink) */
+  background-color:#ffc0cb;  /* very pale red (pink) */
 }
 .world-emoji {
-    background-color:#ffff00;  /* yellow */
+  background-color:#ffff9a;  /* pale yellow */
 }
 .nelson-mandela {
-    background-color:#d3d3d3;  /* light gray */
+  background-color:#d3d3d3;  /* light gray */
 }
 .columbian {
-    background-color:#00ff00;  /* dark green */
+  background-color:#9aff9a;  /* pale lime green */
 }
 .natl-moon {
-    background-color:#ff7fdf;  /* very light pink */
+  background-color:#ff7fdf;  /* very light pink */
 }
 .natl-vanilla-icecream {
-    background-color:#ccff9a;  /* pale green */
+  background-color:#ccff9a;  /* pale green */
 }
 .natl-tequila {
-    background-color:#ffd700;  /* gold */
+  background-color:#ffe34d;  /* light yellow */
 }
 .parents {
-    background-color:#00ff00;  /* lime green */
+  background-color:#b4ffb4;  /* pale lime green */
 }
 .hepatitis {
-    background-color:#ba9ce8;  /* very soft violet */
+  background-color:#ba9ce8;  /* very soft violet */
 }
 .natl-lasagna {
-    background-color:#00eeee;  /* pure cyan */
+  background-color:#89ffff;  /* very light cyan */
 }
 .intl-dayoffriendship {
-    background-color:#ff7e6d;  /* very light red */
+  background-color:#ff7e6d;  /* very light red */
 }
 .natl-avocado {
-    background-color:#afffad;  /* pale lime green */
+  background-color:#afffad;  /* pale lime green */
 }
 
