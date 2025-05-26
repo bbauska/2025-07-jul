@@ -103,6 +103,18 @@ ul {
   margin:5px 0;
 }
 
+<!-- added 5-13-25 7:06pm -->
+.container {
+  background-color: white;
+  border: 2px solid #dcdcdc;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba
+  (0, 0, 0, 0.1);
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
 .canada {
   background-color:#e8e193;  /* very soft yellow */
 }
