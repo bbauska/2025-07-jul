@@ -7,7 +7,7 @@ table {
   width:70%; 
 }
 .month-header {
-  background-image:url("https://2025-jul.bauska.org/images/brute-man-600.png");
+  background-image:url("https://2025-may.bauska.org/images/ufo-600x300.png");
   background-position:center center;
   background-repeat:no-repeat;
   background-size:cover;
@@ -15,33 +15,16 @@ table {
   text-align:right;
 }
 
-a {
-  color: royalblue;
-  text-decoration: none;
-  position: relative;
-  font-family: 'Arial', sans-serif;
-  transition: color 0.3s ease-in-out;
+p {
+  color:#fff;
+  font-size:50%;
+  padding-right:50px;
+  text-align:right;
+  text-decoration:none;
+  vertical-align:bottom;
 }
-a::after {
-  content: '';
-  display: block;
-  width: 0;
-  height: 2px;
-  background: crimson;
-  transition: width 0.3s;
-  position: absolute;
-  bottom: -2px;
-  left: 0;
-}
-a:hover {
-  color: crimson;
-}
-a:hover::after {
-  width: 100%;
-}
-<!-- end of added 5/25/2025 -->
 h1 {
-  color:#FFF;
+  color:#fff;  /* white */
   font-size:200%;
   font-weight:700;
   letter-spacing:3px;
@@ -74,7 +57,6 @@ h1 {
   text-align:left;
   vertical-align:top;
 }
-
 .off-day {
   background-color:#ddd;  /* very light gray */
 }
@@ -91,6 +73,41 @@ ul {
   color:#10171c;  /* very dark (mostly black) blue */
   padding:5px;
   margin:5px 0;
+}
+<!-- added 5-13-25 7:06pm -->
+.container {
+  background-color: white;
+  border: 2px solid #dcdcdc;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba
+  (0, 0, 0, 0.1);
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+a {
+  color: royalblue;
+  text-decoration: none;
+  position: relative;
+  font-family: 'Arial', sans-serif;
+  transition: color 0.3s ease-in-out;
+}
+a::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
+  background: crimson;
+  transition: width 0.3s;
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+}
+a:hover {
+  color: crimson;
+}
+a:hover::after {
+  width: 100%;
 }
 
 .canada {
