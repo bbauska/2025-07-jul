@@ -14,17 +14,7 @@ table {
   height:300px;
   text-align:right;
 }
-<!-- Added 5/25/2025 -->
-.container {
-  background-color: white;
-  border: 2px solid #dcdcdc;
-  padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba
-  (0, 0, 0, 0.1);
-  text-align: center;
-  font-family: 'Arial', sans-serif;
-}
+
 a {
   color: royalblue;
   text-decoration: none;
@@ -101,18 +91,6 @@ ul {
   color:#10171c;  /* very dark (mostly black) blue */
   padding:5px;
   margin:5px 0;
-}
-
-<!-- added 5-13-25 7:06pm -->
-.container {
-  background-color: white;
-  border: 2px solid #dcdcdc;
-  padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba
-  (0, 0, 0, 0.1);
-  text-align: center;
-  font-family: 'Arial', sans-serif;
 }
 
 .canada {
