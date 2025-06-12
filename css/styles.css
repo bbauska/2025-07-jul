@@ -129,6 +129,9 @@ a:hover::after {
   background-color:#80bfff;  /* very light blue */
 }
 .chocolate {
+  background-color:#b5651d;  /* strong orange */
+}
+.brian-bd {
   background-color:#9aff9a;  /* pale lime green */
 }
 .cow-appreciation {
