@@ -15,14 +15,6 @@ table {
   text-align:right;
 }
 
-p {
-  color:#fff;
-  font-size:50%;
-  padding-right:50px;
-  text-align:right;
-  text-decoration:none;
-  vertical-align:bottom;
-}
 h1 {
   color:#fff;  /* white */
   font-size:200%;
@@ -36,7 +28,7 @@ h1 {
 /* padding-bottom:150px; */
 .copyright-notice {
   color:#fff;
-  font-size:50%;
+  font-size:65%;
   padding-right:50px;
   text-align:right;
   text-decoration:none;
@@ -51,7 +43,7 @@ h1 {
   line-height:25px;
 }
 .week {
-  background-color:#ffff00;  /* eaeaea = very light gray */
+  background-color:#ffff00;  /* ff0000 = pure (or mostly pure) yellow, eaeaea = very light gray */
   height:75px;
   margin:0;
   text-align:left;
@@ -74,22 +66,24 @@ ul {
   padding:5px;
   margin:5px 0;
 }
+
 <!-- added 5-13-25 7:06pm -->
 .container {
   background-color: white;
-  border: 2px solid #dcdcdc;
+  border: 2px solid #dcdcdc;  /* very light gray */
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba
   (0, 0, 0, 0.1);
   text-align: center;
-  font-family: 'Arial', sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
 }
 a {
   color: royalblue;
   text-decoration: none;
   position: relative;
-  font-family: 'Arial', sans-serif;
+  padding-right: 50px;  /* 6-23-2025 */
+  font-family: Helvetica, Arial, sans-serif;
   transition: color 0.3s ease-in-out;
 }
 a::after {
@@ -110,6 +104,7 @@ a:hover::after {
   width: 100%;
 }
 
+<!-- World, National & International Days -->
 .canada {
   background-color:#e8e193;  /* very soft yellow */
 }
