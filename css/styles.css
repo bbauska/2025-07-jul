@@ -16,7 +16,7 @@ table {
 }
 
 h1 {
-  color:#fff;  /* white */
+  color:#ffffff;  /* white */
   font-size:200%;
   font-weight:700;
   letter-spacing:3px;
@@ -69,7 +69,7 @@ ul {
 
 <!-- added 5-13-25 7:06pm -->
 .container {
-  background-color: white;
+  background-color: #ffffff;  /* white */
   border: 2px solid #dcdcdc;  /* very light gray */
   padding: 20px;
   border-radius: 10px;
@@ -79,7 +79,7 @@ ul {
   font-family: Helvetica, Arial, sans-serif;
 }
 a {
-  color: royalblue;
+  color: #4169e1  /* royalblue */
   text-decoration: none;
   position: relative;
   padding-right: 50px;  /* 6-23-2025 */
@@ -91,17 +91,17 @@ a::after {
   display: block;
   width: 0;
   height: 2px;
-  background: crimson;
+  background: #990000;  /* crimson */
   transition: width 0.3s;
   position: absolute;
   bottom: -2px;
   left: 0;
 }
 a:hover {
-  color: crimson;
+  color:#990000;  /* crimson */
 }
 a:hover::after {
-  width: 100%;
+  width: 88%;
 }
 
 <!-- World, National & International Days -->
