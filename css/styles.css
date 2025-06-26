@@ -106,6 +106,9 @@ a:hover::after {
 }
 
 <!-- World, National & International Days -->
+.canada-day {
+  background-color:#e893e8;  /* very soft magenta */
+}
 .canada {
   background-color:#e893e8;  /* very soft magenta */
 }
