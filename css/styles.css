@@ -113,19 +113,19 @@ a:hover::after {
   background-color:#c2e7e7;  /* light grayish cyan */
 }
 .independence {
-  background-color:#ff8080;  /* very light red */
+  background-color:#ffb3b3;  /* pale red [pink tone] */
 }
 .bikini {
   background-color:#ffbf80;  /* very light orange */
 }
 .intl-kissing {
-  background-color:#ff80bf;  /* very light pink */
+  background-color:#ffcde6;  /* very pale pink */
 }
 .fried-chicken {
-  background-color:#80bfff;  /* very light blue */
+  background-color:#b3d9ff;  /* pale blue */
 }
 .chocolate {
-  background-color:#b5651d;  /* strong orange */
+  background-color:#ebb380;  /* soft orange */
 }
 .brian-bd {
   background-color:#9aff9a;  /* pale lime green */
@@ -140,10 +140,10 @@ a:hover::after {
   background-color:#ffcc67;  /* very light orange */
 }
 .bastille {
-  background-color:#ff9a9a;  /* pale red [pink tone] */
+  background-color:#ffcdcd;  /* very pale red [pink tone] */
 }
 .natl-mandc {
-  background-color:#9ab3ff;  /* pale blue */
+  background-color:#e7edff;  /* very pale (mostly white) blue */
 }
 .youth-skills {
   background-color:#98fb98;  /* very soft lime green */
@@ -164,7 +164,7 @@ a:hover::after {
   background-color:#9aff9a;  /* pale lime green */
 }
 .natl-moon {
-  background-color:#ff7fdf;  /* very light pink */
+  background-color:#ffccf2;  /* very pale pink */
 }
 .natl-vanilla-icecream {
   background-color:#ccff9a;  /* pale green */
@@ -176,13 +176,13 @@ a:hover::after {
   background-color:#b4ffb4;  /* pale lime green */
 }
 .hepatitis {
-  background-color:#ba9ce8;  /* very soft violet */
+  background-color:#e5daf6;  /* light grayish violet */
 }
 .natl-lasagna {
   background-color:#89ffff;  /* very light cyan */
 }
 .intl-dayoffriendship {
-  background-color:#ff7e6d;  /* very light red */
+  background-color:#ffc2ba;  /* pale red [pink tone] */
 }
 .natl-avocado {
   background-color:#afffad;  /* pale lime green */
